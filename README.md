@@ -21,7 +21,8 @@
         <li>🎓 Undergraduate <b>Data Science and Analytics</b> student at <b>Universitas Kristen Petra</b>.</li>
         <li>🐞 <b>INFP</b> with a passion for building structured solutions from chaotic datasets. I believe in first-principles thinking—building algorithms from scratch to truly understand the magic behind them.</li>
         <li>🔍 <b>Currently forging:</b> <b>Jalur Hijau</b> (an environmental navigation app prototype), <b>SyncFlow</b> (a Notion-inspired workspace), and Machine Learning-powered diagnostic dashboards.</li>
-        <li>💡 <b>Mastering:</b> Statistical modeling in <b>R</b>, hybrid databases (PostgreSQL + MongoDB), and ML models (Random Forest, K-Means).</li>
+        <li>💡 <b>Mastering:</b> Statistical modeling in <b>R</b>, hybrid databases (PostgreSQL + MongoDB), and constantly leveling up my skills in <b>Machine Learning</b> models (Random Forest, K-Means).</li>
+        <li>🐾 <b>Fun Fact:</b> When I'm not coding or mapping ERDs, I'm probably binge-watching <b>Marvel movies, Drachin (C-Dramas), or Miraculous Ladybug!</b></li>
       </ul>
     </td>
     <td width="35%" align="center">
@@ -41,12 +42,15 @@
   <img src="https://img.shields.io/badge/R-E50000?style=for-the-badge&logo=R&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/Pandas-141414?style=for-the-badge&logo=pandas&logoColor=E50000" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-E50000?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Streamlit-141414?style=for-the-badge&logo=Streamlit&logoColor=1ED760" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Jupyter-E50000?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-141414?style=for-the-badge&logo=scikit-learn&logoColor=1ED760" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Streamlit-E50000?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Jupyter-141414?style=for-the-badge&logo=Jupyter&logoColor=E50000" alt="Jupyter" />
 </div>
 
 <div align="center">
   <p><b>Software & Web Development</b></p>
+  <img src="https://img.shields.io/badge/HTML5-141414?style=for-the-badge&logo=html5&logoColor=E50000" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-E50000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Java_&_JavaFX-141414?style=for-the-badge&logo=openjdk&logoColor=1ED760" alt="Java" />
   <img src="https://img.shields.io/badge/Laravel-E50000?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/PHP-141414?style=for-the-badge&logo=php&logoColor=1ED760" alt="PHP" />
