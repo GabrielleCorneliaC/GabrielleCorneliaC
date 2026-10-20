@@ -20,9 +20,8 @@
       <ul>
         <li>🎓 Undergraduate <b>Data Science and Analytics</b> student at <b>Universitas Kristen Petra</b>.</li>
         <li>🐞 <b>INFP</b> with a passion for building structured solutions from chaotic datasets. I believe in first-principles thinking—building algorithms from scratch to truly understand the magic behind them.</li>
-        <li>🔍 <b>Currently forging:</b> <b>Teduh</b> (an environmental navigation app prototype), <b>SyncFlow</b> (a Notion-inspired workspace), and Machine Learning-powered diagnostic dashboards.</li>
+        <li>🔍 <b>Currently forging:</b> <b>Jalur Hijau</b> (an environmental navigation app prototype), <b>SyncFlow</b> (a Notion-inspired workspace), and Machine Learning-powered diagnostic dashboards.</li>
         <li>💡 <b>Mastering:</b> Statistical modeling in <b>R</b>, hybrid databases (PostgreSQL + MongoDB), and ML models (Random Forest, K-Means).</li>
-        <li>🐾 <b>Fun Fact:</b> When I'm not organizing my pastel-themed planner, mapping ERDs, or doing regression diagnostics, I'm probably rewatching <i>Gilmore Girls</i> or Marvel movies!</li>
       </ul>
     </td>
     <td width="35%" align="center">
