@@ -2,7 +2,7 @@
   <!-- Banner Miraculous Ladybug (Bisa diganti dengan GIF favoritmu) -->
   <img src="https://media.tenor.com/XU6vSgWjZFEAAAAC/miraculous-ladybug-and-cat-noir.gif" width="100%" alt="Miraculous Banner" style="border-radius: 15px;">
 
-  <h1>Hi 👋, I'm Gabrielle Cornelia (Elle) 🐞🐾</h1>
+  <h1>Hi 👋, I'm Ellee 🐞🐾</h1>
   <h3>Data Science Student ➔ Transforming Raw Data into Miraculous Insights</h3>
   
   <p>
